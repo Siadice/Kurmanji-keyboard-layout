@@ -5,4 +5,5 @@ Download the zip file, extract the content and run the "setup" executable
 
 Made using the MSKLC
 
-![Layout](https://github.com/user-attachments/assets/8c5b1bed-eb61-45aa-932b-8a1c0b815812)
+![Layout](https://github.com/user-attachments/assets/edb38c07-7ab1-4773-b10b-35ddd8042006)
+
