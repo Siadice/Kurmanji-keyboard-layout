@@ -1,7 +1,11 @@
 # Kurmanji-keyboard-layout
 Kurdish Kurmanji keyboard layout to use as an input method in Windows
 
-Download the rar file, extract the content and run the "setup" executable
+## Download
+
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-green?style=for-the-badge)](https://github.com/Siadice/Kurmanji-keyboard-layout/releases/latest/download/Kurdish-keyboard-layout.rar)
+
+Download the RAR file, extract the content, and run the `setup` executable.
 
 Made using the MSKLC
 
